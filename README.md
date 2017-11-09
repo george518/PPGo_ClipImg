@@ -9,37 +9,7 @@ https://github.com/george518/CoreImage
 ----
 1、快速切割图片的核心部分，并自定义尺寸和边距形成新的图片   
 2、常用于电商平台的图片批量处理。    
-3、含有golang常用的图片包使用方法，可以作为golang图片学习参考使用        
-
-效果展示 （图片显示均为正常尺寸）
-----
-
-原图0 -底图为纯色<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/bags.jpg?raw=true "github")
-<br/><br/>
-处理图0<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/bags.jpg?raw=true "github")
-<hr />
-
-原图1-一双鞋，边距太大<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
-<br/><br/>
-处理图1<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
-<hr />
-原图2-png图<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
-<br/>
-处理图2<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
-<hr />
-原图3-竖图<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/close.jpg?raw=true "github")
-<br/><br/>
-处理图3<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
-<hr />
-更多切割效果查看example中的例子<br />
+3、含有golang常用的图片包使用方法，可以作为golang图片学习参考使用     
 
 安装使用    
 ----
@@ -59,5 +29,34 @@ go get github.com/george518/PPGo_CliImg
 
 联系我
 ----
-qq:41352963
+qq:41352963    
+
+
+效果展示 （图片显示均为正常尺寸）
+----
+
+原图0 -底图为纯色<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/bags.jpg?raw=true "github")
+<br/><br/>
+处理图0<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/bags.jpg?raw=true "github")
+<hr />
+原图1-一双鞋，边距太大<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
+<br/><br/>
+处理图1<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
+<hr />
+原图2-png图<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
+<br/><br/>
+处理图2<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
+<hr />
+原图3-竖图<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/close.jpg?raw=true "github")
+<br/><br/>
+处理图3<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
+<hr />
 
