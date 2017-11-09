@@ -15,14 +15,14 @@ https://github.com/george518/CoreImage
 ----
 1、下载
 ```golang
-go get github.com/george518/PPGo_CliImg 
+go get github.com/george518/PPGo_ClipImg 
 ```
    
 2、运行 go build    
 <br />
 使用示例：
 ``` bash
-./PPGo_CliImg -f=./example/images/image.jpg -p=center -h=300 -w=200 -m=10 
+./PPGo_ClipImg -f=./example/images/image.jpg -p=center -h=300 -w=200 -m=10 
 ```
  
 具体可以使用 ./PPGo_CliImg -h 查看传入参数    
@@ -34,29 +34,33 @@ qq:41352963
 
 效果展示 （图片显示均为正常尺寸）
 ----
-
 原图0 -底图为纯色<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/bags.jpg?raw=true "github")
 <br/><br/>
 处理图0<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/bags.jpg?raw=true "github")
 <hr />
+<br />
 原图1-一双鞋，边距太大<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
 <br/><br/>
 处理图1<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
 <hr />
+<br />
 原图2-png图<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
 <br/><br/>
+<br />
 处理图2<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
 <hr />
+<br />
 原图3-竖图<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/close.jpg?raw=true "github")
 <br/><br/>
 处理图3<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
 <hr />
+<br />
 
