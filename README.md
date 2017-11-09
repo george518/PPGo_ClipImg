@@ -50,24 +50,17 @@ qq:41352963
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
 <hr />
 
-原图1 -底图为白色<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/close.jpg?raw=true "github")
-<br/><br/>
-处理图1<br/>
-![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
-<hr />
-
 原图2 <br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
 <br/><br/>
-处理图3<br/>
+处理图2<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
 <hr />
 
-原图4-PNG图 <br/>
+原图3-PNG图 <br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
 <br/><br/>
-处理图4<br/>
+处理图3<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
 <hr />
 
