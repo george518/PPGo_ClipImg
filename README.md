@@ -9,7 +9,9 @@ https://github.com/george518/CoreImage
 ----
 1、快速切割图片的核心部分，并自定义尺寸和边距形成新的图片   
 2、常用于电商平台的图片批量处理。    
-3、含有golang常用的图片包使用方法，可以作为golang图片学习参考使用     
+3、含有golang常用的图片包使用方法，可以作为golang图片学习参考使用 
+
+用得上，请赐予star :)   
 
 安装使用    
 ----
@@ -53,6 +55,20 @@ qq:41352963
 <br/><br/>
 处理图1<br/>
 ![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
+<hr />
+
+原图2 <br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
+<br/><br/>
+处理图3<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
+<hr />
+
+原图4-PNG图 <br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
+<br/><br/>
+处理图4<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
 <hr />
 
 
