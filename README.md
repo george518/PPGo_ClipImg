@@ -13,16 +13,24 @@ https://github.com/george518/CoreImage
 
 效果展示 （图片显示均为正常尺寸）
 ----
+https://github.com/george518/PPGo_ClipImg/blob/master/example/images/bag.jpg
 原图1<br/>
-![github](https://github.com/george518/PPGo_CliImg/blob/master/example/images/image.jpg?raw=true "github")
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/image.jpg?raw=true "github")
 <br/><br/>
 处理图1<br/>
-![github](https://github.com/george518/PPGo_CliImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/image.jpg?raw=true "github")
 原图2<br/>
-![github](https://github.com/george518/PPGo_CliImg/blob/master/example/images/png.png?raw=true "github")
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/png.png?raw=true "github")
 <br/><br/>
 处理图2<br/>
-![github](https://github.com/george518/PPGo_CliImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/png.png?raw=true "github")
+<br />
+
+原图3<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/close.jpg?raw=true "github")
+<br/><br/>
+处理图3<br/>
+![github](https://github.com/george518/PPGo_ClipImg/blob/master/example/images/CoreImages/close.jpg?raw=true "github")
 <br />
 更多切割效果查看example中的例子<br />
 
